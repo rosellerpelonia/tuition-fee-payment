@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1025042220034",
+    "firebase_url": "https://tuition-ee17e-default-rtdb.firebaseio.com",
+    "project_id": "tuition-ee17e",
+    "storage_bucket": "tuition-ee17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025042220034:android:5ccbf547159775ff76131b",
+        "android_client_info": {
+          "package_name": "com.example.onlinetuitionfeepayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025042220034-gvqc5fgiqme1bnuopopthndu982g9afj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinetuitionfeepayment",
+            "certificate_hash": "f5ec590b0b1fe7a8efc4dec306a42274f3d66530"
+          }
+        },
+        {
+          "client_id": "1025042220034-se32ar34gv76fu8t8cn18k0lpctaqllr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xwinkT2uIAa9qtpy2RdXZBUJPjo5nwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025042220034-se32ar34gv76fu8t8cn18k0lpctaqllr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
